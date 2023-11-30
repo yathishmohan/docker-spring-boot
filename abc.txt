@@ -1,2 +1,5 @@
 git sample push
-changes
+
+
+conflict
+
